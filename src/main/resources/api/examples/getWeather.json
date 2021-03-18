@@ -1,0 +1,9 @@
+{
+        "city": "Sydney",
+        "time": "11:30 AM",
+        "wind": "15 km per hour",
+        "seen": "10 km",
+        "weatherCondition": "Cloudy",
+        "temp": "22",
+        "weatherStatus": "Normal"
+}
