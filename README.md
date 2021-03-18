@@ -12,7 +12,7 @@ Examples
 ----------
 - Get weather by city name and country name:
 
-  `http://localhost:8081/api/getWeather/getWeatherByCityAndCountry?cityName=Sydney&countryName=Australia`
+  `http://localhost:8081/api/getWeather/getWeatherByCityAndCountry?cityName=Melbourne&countryName=Australia`
 
 - Get cities by country name
 
